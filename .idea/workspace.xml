@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/venv/algo/day04-Array2/색칠하기.py" line="5" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9259191-defb-4e36-a7bf-767d9e07a193" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/algo/day08-stack1/작업순서.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/algo/day08-stack1/작업순서.py" afterDir="false" />
-    </list>
+    <list default="true" id="b9259191-defb-4e36-a7bf-767d9e07a193" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/venv/algo/day09-stack2/Magnetic2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="266">
+              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -119,10 +116,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="593" />
-    <option name="y" value="53" />
-    <option name="width" value="928" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="346" />
+    <option name="width" value="1578" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -130,6 +126,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -219,7 +216,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -523,10 +519,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="593" y="53" width="928" height="1047" extended-state="0" />
+    <frame x="346" y="0" width="1578" height="1047" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26292136" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15194805" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -942,38 +939,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack2/3-2 연습문제2.png" />
-    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack2/연습문제2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1349">
-          <caret line="71" column="16" lean-forward="true" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack2/연습문제2.py" />
+    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack2/Magnetic.py" />
+    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack2/Magnetic2.py" />
+    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack2/Magnetic" />
     <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack1/괄호검사.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
           <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack2/Magnetic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="51" column="3" selection-start-line="51" selection-start-column="3" selection-end-line="51" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack2/Magnetic2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack2/Magnetic">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="200" lean-forward="true" selection-start-line="20" selection-start-column="200" selection-end-line="20" selection-end-column="200" />
         </state>
       </provider>
     </entry>
@@ -985,8 +958,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/algo/day09-stack2/Magnetic2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="266">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
         </state>
       </provider>
     </entry>
