@@ -4,41 +4,199 @@
     <bookmark url="file://$PROJECT_DIR$/venv/algo/day04-Array2/색칠하기.py" line="5" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9259191-defb-4e36-a7bf-767d9e07a193" name="Default Changelist" comment="" />
+    <list default="true" id="b9259191-defb-4e36-a7bf-767d9e07a193" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/venv/algo/day10-stack2/1_Forth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day10-stack2/1_Forth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day10-stack2/2_미로" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day10-stack2/2_미로.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day10-stack2/3_토너먼트카드게임" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day10-stack2/3_토너먼트카드게임.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day10-stack2/4_배열최소합" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day10-stack2/4_배열최소합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day10-stack2/5_계산기3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day10-stack2/5_계산기3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day10-stack2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day11-Queue/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day11-Queue/연습문제-마이쮸.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day11-Queue/연습문제3-BFS-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day11-Queue/연습문제3-BFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day11-Queue/행렬찾기" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day11-Queue/행렬찾기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day12-Queue/1_Contact" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day12-Queue/1_Contact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day12-Queue/2_회전" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day12-Queue/2_회전.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day12-Queue/3_미로의거리" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day12-Queue/3_미로의거리.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day12-Queue/4_피자굽기" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day12-Queue/4_피자굽기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day12-Queue/5_노드의길이" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day12-Queue/5_노드의길이.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day12-Queue/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day13-List/LinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day13-List/LinkedList2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day13-List/LinkedList3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day13-List/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day13-List/병합정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day13-List/숫자배열회전" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day13-List/숫자배열회전.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day13-List/우선순위큐.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day14-LinkedList/1 숫자추가.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day14-LinkedList/1_숫자추가" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day14-LinkedList/1_숫자추가.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day14-LinkedList/2_수열합치기" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day14-LinkedList/2_수열합치기.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day14-LinkedList/3_암호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day14-LinkedList/3_암호.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day14-LinkedList/4_수열편집.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day14-LinkedList/4_수열편집.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day14-LinkedList/5_스도쿠검증.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day14-LinkedList/5_스도쿠검증.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day14-LinkedList/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day15-Tree/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day15-Tree/연습문제.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day15-Tree/연습문제.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day15-Tree/중위순회" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day15-Tree/중위순회.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day15-Tree/중위순회문제.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day16-Tree/1_사칙연산" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day16-Tree/1_사칙연산.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day16-Tree/1_사칙연산문제.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day16-Tree/2_subtree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day16-Tree/2_subtree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day16-Tree/2_subtree문제.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day16-Tree/3_이진탐색" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day16-Tree/3_이진탐색.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day16-Tree/3_이진탐색문제.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day16-Tree/4_이진힙" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day16-Tree/4_이진힙.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day16-Tree/5_노드의합" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day16-Tree/5_노드의합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/algo/day16-Tree/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_lecture.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_lecture.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1741409879">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="1_사칙연산" value="2" />
+          <entry key="2_subtree" value="1" />
+          <entry key="3_이진탐색" value="1" />
+          <entry key="4_이진힙" value="1" />
+          <entry key="5_노드의합" value="1" />
+          <entry key="py" value="16" />
+          <entry key="중위순회" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Python" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="2_subtree" value="1" />
+          <entry key="3_이진탐색" value="1" />
+          <entry key="py" value="3071" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="3071" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack1/괄호검사.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/algo/day09-stack2/Magnetic2.py">
+        <entry file="file://$PROJECT_DIR$/venv/algo/day16-Tree/1_사칙연산.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            <state relative-caret-position="399">
+              <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/algo/day09-stack2/Magnetic">
+        <entry file="file://$PROJECT_DIR$/venv/algo/day16-Tree/2_subtree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/algo/day16-Tree/3_이진탐색.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/algo/day16-Tree/4_이진힙.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/algo/day09-stack2/Magnetic.py">
+        <entry file="file://$PROJECT_DIR$/venv/algo/day16-Tree/5_노드의합.py">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/algo/day16-Tree/3_이진탐색">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/algo/day16-Tree/4_이진힙">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/algo/day16-Tree/5_노드의합">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/algo/day16-Tree/1_사칙연산">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/algo/day16-Tree/2_subtree">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -62,63 +220,63 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/venv/algo/day04/부분집합의합.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day04/이진탐색.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day04/특별한정렬.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day05/test.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day05/input" />
-        <option value="$PROJECT_DIR$/venv/algo/day05/GNS.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day06-String/1문자열비교" />
-        <option value="$PROJECT_DIR$/venv/algo/day05-String/GNS.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day06-String/2회문" />
-        <option value="$PROJECT_DIR$/venv/algo/day06-String/3글자수" />
-        <option value="$PROJECT_DIR$/venv/algo/day06-String/3글자수.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day06-String/5민석이의과제" />
-        <option value="$PROJECT_DIR$/venv/algo/day06-String/4회문2" />
-        <option value="$PROJECT_DIR$/venv/algo/day06-String/4회문3.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day06-String/4회문2.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day06-String/1문자열비교1.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day06-String/2회문 - 복사본.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day06-String/3글자수 - 복사본.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day06-String/4회문2 - 복사본.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day06-String/5민석이의과제 - 복사본.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day06-String/1문자열비교.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day06-String/2회문.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day06-String/5민석이의과제.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day07-stack/basic.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day07-stack1/연습문제3.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day07-stack1/Ladder1" />
-        <option value="$PROJECT_DIR$/venv/algo/day07-stack1/test.py" />
-        <option value="$PROJECT_DIR$/../TIL/Algorithm/알고리즘/4.stack/memoization.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day08-stack1/종이붙이기" />
-        <option value="$PROJECT_DIR$/venv/algo/day07-stack1/memoization.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day08-stack1/괄호검사" />
-        <option value="$PROJECT_DIR$/venv/algo/day08-stack1/괄호검사.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day08-stack1/반복문자지우기2.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day08-stack1/반복문자지우기" />
-        <option value="$PROJECT_DIR$/venv/algo/day08-stack1/반복문자지우기.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day08-stack1/그래프경로" />
-        <option value="$PROJECT_DIR$/venv/algo/day08-stack1/그래프경로.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day07-stack1/Ladder1.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day07-stack1/괄호검사.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day07-stack1/연습문제.py" />
-        <option value="$PROJECT_DIR$/../TIL/Algorithm/알고리즘/4.stack/ch 1/basic.py" />
-        <option value="$PROJECT_DIR$/../TIL/Algorithm/알고리즘/4.stack/ch 1/Ladder1.py" />
-        <option value="$PROJECT_DIR$/../TIL/Algorithm/알고리즘/4.stack/ch 1/괄호검사.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day08-stack1/종이붙이기.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day08-stack1/작업순서" />
-        <option value="$PROJECT_DIR$/venv/algo/day08-stack1/작업순서2.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day08-stack1/작업순서.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day08-stack2/연습문제2.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day08-stack2/Magnetic" />
-        <option value="$PROJECT_DIR$/venv/algo/day08-stack2/Magnetic.py" />
-        <option value="$PROJECT_DIR$/venv/algo/day08-stack2/Magnetic2.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day10-stack2/계산기3" />
+        <option value="$PROJECT_DIR$/venv/algo/day10-stack2/계산기3.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day10-stack2/5_계산기3.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day10-stack2/4_배열최소합.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day10-stack2/4_배열최소합" />
+        <option value="$PROJECT_DIR$/venv/algo/day10-stack2/1_Forth.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day11-Queue/연습문제-마이쮸.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day11-Queue/연습문제-마이쮸2.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day11-Queue/행렬찾기" />
+        <option value="$PROJECT_DIR$/venv/algo/day11-Queue/행렬찾기.py" />
+        <option value="$USER_HOME$/TIL/Algorithm/알고리즘/5. stack2/ch 01/문제/Magnetic3.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day11-Queue/연습문제3-BFS.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day11-Queue/연습문제3-BFS-2.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day12-Queue/Contact" />
+        <option value="$PROJECT_DIR$/venv/algo/day12-Queue/Contact.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day12-Queue/1_Contact.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day12-Queue/2_회전" />
+        <option value="$PROJECT_DIR$/venv/algo/day12-Queue/2_회전.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day10-stack2/2_미로.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day12-Queue/3_미로의거리2.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day12-Queue/3_미로의거리" />
+        <option value="$PROJECT_DIR$/venv/algo/day12-Queue/4_피자굽기" />
+        <option value="$PROJECT_DIR$/venv/algo/day12-Queue/3_미로의거리.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day12-Queue/5_노드의길이2.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day12-Queue/5_노드의길이" />
+        <option value="$PROJECT_DIR$/venv/algo/day12-Queue/5_노드의길이.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day12-Queue/4_피자굽기.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day13-List/숫자배열회전" />
+        <option value="$USER_HOME$/TIL/Algorithm/알고리즘/7. List/ch01/숫자배열회전.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day13-List/큐.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day13-List/큐2.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day13-List/큐-구현.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day13-List/숫자배열회전.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day13-List/병합정렬.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day13-List/우선순위큐.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day14-LinkedList/1_숫자추가" />
+        <option value="$PROJECT_DIR$/venv/algo/day14-LinkedList/1_숫자추가2.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day14-LinkedList/1_숫자추가.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day14-LinkedList/2_수열합치기" />
+        <option value="$PROJECT_DIR$/venv/algo/day14-LinkedList/2_수열합치기.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day15-Tree/연습문제.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day15-Tree/중위순회" />
+        <option value="$PROJECT_DIR$/venv/algo/day16-Tree/1_사칙연산" />
+        <option value="$PROJECT_DIR$/venv/algo/day15-Tree/중위순회.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day16-Tree/1_사칙연산.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day16-Tree/4_이진힙.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day16-Tree/5_노드의합.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day16-Tree/2_subtree" />
+        <option value="$PROJECT_DIR$/venv/algo/day16-Tree/2_subtree.py" />
+        <option value="$PROJECT_DIR$/venv/algo/day16-Tree/3_이진탐색" />
+        <option value="$PROJECT_DIR$/venv/algo/day16-Tree/3_이진탐색.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="346" />
-    <option name="width" value="1578" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="858" />
+    <option name="width" value="1069" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -150,7 +308,14 @@
               <item name="python_lecture" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
               <item name="algo" type="462c0819:PsiDirectoryNode" />
-              <item name="day09-stack2" type="462c0819:PsiDirectoryNode" />
+              <item name="day15-Tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_lecture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_lecture" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="algo" type="462c0819:PsiDirectoryNode" />
+              <item name="day16-Tree" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python_lecture" type="b2602c69:ProjectViewProjectNode" />
@@ -186,31 +351,7 @@
               <item name="&lt; Python 3.6 (python_lecture) &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
               <item name="algo" type="462c0819:PsiDirectoryNode" />
-              <item name="day05-String" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_lecture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (python_lecture) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="algo" type="462c0819:PsiDirectoryNode" />
-              <item name="day06-String" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_lecture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (python_lecture) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="algo" type="462c0819:PsiDirectoryNode" />
-              <item name="day07-stack1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_lecture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6 (python_lecture) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
-              <item name="algo" type="462c0819:PsiDirectoryNode" />
-              <item name="day08-stack1" type="462c0819:PsiDirectoryNode" />
+              <item name="day15-Tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -219,16 +360,18 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/algo/day08-stack2/괄호검사" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/student/python_lecture/venv/algo/day14-LinkedList/1_숫자추가.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/venv/algo/day08-stack2/괄호검사" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\student\python_lecture\venv\algo\day08-stack2" />
-      <recent name="C:\Users\student\python_lecture\venv\algo\day08-stack1" />
-      <recent name="C:\Users\student\python_lecture\venv\algo\day07-stack1" />
-      <recent name="C:\Users\student\python_lecture\venv\algo\day06-String" />
-      <recent name="C:\Users\student\python_lecture\venv\algo\day04" />
+      <recent name="C:\Users\student\python_lecture\venv\algo\day15-Tree" />
+      <recent name="C:\Users\student\python_lecture\venv\algo\day16-Tree" />
+      <recent name="C:\Users\student\python_lecture\venv\algo\day14-LinkedList" />
+      <recent name="C:\Users\student\python_lecture\venv\algo\day13-List" />
+      <recent name="C:\Users\student\python_lecture\venv\algo\day12-Queue" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -243,8 +386,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Magnetic2">
-    <configuration name="반복문자지우기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.3_이진탐색">
+    <configuration name="중위순회" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_lecture" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,11 +395,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/algo/day08-stack1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/algo/day15-Tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/algo/day08-stack1/반복문자지우기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/algo/day15-Tree/중위순회.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,7 +408,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="작업순서2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1_숫자추가" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_lecture" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,11 +416,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/algo/day08-stack1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/algo/day14-LinkedList" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/algo/day08-stack1/작업순서2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/algo/day14-LinkedList/1_숫자추가.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,7 +429,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="연습문제2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1_사칙연산" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_lecture" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -294,11 +437,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/algo/day08-stack2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/algo/day16-Tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/algo/day08-stack2/연습문제2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/algo/day16-Tree/1_사칙연산.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,7 +450,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Magnetic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2_수열합치기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_lecture" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -315,11 +458,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/algo/day08-stack2" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/algo/day14-LinkedList" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/algo/day08-stack2/Magnetic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/algo/day14-LinkedList/2_수열합치기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -328,7 +471,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Magnetic2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2_subtree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_lecture" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -336,11 +479,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/algo/day08-stack2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/algo/day16-Tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/algo/day08-stack2/Magnetic2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/algo/day16-Tree/2_subtree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -349,7 +492,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="종이붙이기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3_이진탐색" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_lecture" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -357,11 +500,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/algo/day08-stack1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/algo/day16-Tree" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/algo/day08-stack1/종이붙이기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/algo/day16-Tree/3_이진탐색.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -454,6 +597,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="연습문제" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_lecture" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/algo/day15-Tree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/algo/day15-Tree/연습문제.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="이진탐색" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_lecture" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -496,12 +660,83 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="숫자배열회전" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_lecture" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/algo/day13-List" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/algo/day13-List/숫자배열회전.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="큐" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_lecture" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/algo/day13-List" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/algo/day13-List/큐.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="숫자배열회전" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_lecture" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/algo/day13-List" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/algo/day13-List/숫자배열회전.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.1_숫자추가" />
+      <item itemvalue="Python.2_수열합치기" />
+      <item itemvalue="Python.중위순회" />
+      <item itemvalue="Python.3_이진탐색" />
+      <item itemvalue="Python.2_subtree" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Magnetic2" />
-        <item itemvalue="Python.Magnetic" />
-        <item itemvalue="Python.반복문자지우기" />
-        <item itemvalue="Python.작업순서2" />
+        <item itemvalue="Python.3_이진탐색" />
+        <item itemvalue="Python.2_subtree" />
+        <item itemvalue="Python.중위순회" />
+        <item itemvalue="Python.1_숫자추가" />
+        <item itemvalue="Python.2_수열합치기" />
       </list>
     </recent_temporary>
   </component>
@@ -519,11 +754,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="346" y="0" width="1578" height="1047" extended-state="1" />
+    <frame x="858" y="0" width="1069" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15194805" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.21532492" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -531,8 +766,8 @@
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.3154436" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.38992333" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.31469297" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3892544" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -540,6 +775,9 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -699,7 +937,177 @@
           <line>5</line>
           <option name="timeStamp" value="61" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day11-Queue/연습문제3-BFS.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day11-Queue/연습문제3-BFS.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day11-Queue/연습문제3-BFS.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day11-Queue/연습문제3-BFS.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day11-Queue/연습문제3-BFS.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day11-Queue/연습문제3-BFS.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day11-Queue/연습문제3-BFS.py</url>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day11-Queue/연습문제3-BFS.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day11-Queue/행렬찾기.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day12-Queue/1_Contact.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day12-Queue/3_미로의거리.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day12-Queue/3_미로의거리.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day12-Queue/5_노드의길이.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day12-Queue/5_노드의길이.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day13-List/병합정렬.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day13-List/병합정렬.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day13-List/병합정렬.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day13-List/숫자배열회전.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day13-List/숫자배열회전.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day13-List/LinkedList2.py</url>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day13-List/LinkedList2.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day13-List/LinkedList2.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day13-List/LinkedList2.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day13-List/LinkedList2.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day13-List/LinkedList2.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day15-Tree/연습문제.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day15-Tree/중위순회.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day15-Tree/중위순회.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day16-Tree/1_사칙연산.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day16-Tree/1_사칙연산.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day16-Tree/2_subtree.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day16-Tree/2_subtree.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/venv/algo/day16-Tree/3_이진탐색.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
       </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -708,258 +1116,303 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/algo/day06-String/4회문2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="66" selection-start-line="13" selection-start-column="66" selection-end-line="13" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day06-String/4회문2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day06-String/3글자수">
+    <entry file="file://$USER_HOME$/TIL/Algorithm/알고리즘/5. stack2/ch 01/문제/Magnetic3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day06-String/4회문2.py">
+    <entry file="file://$PROJECT_DIR$/venv/algo/day12-Queue/2_회전">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="68" column="37" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
+        <state relative-caret-position="114">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day06-String/1문자열비교">
+    <entry file="file://$PROJECT_DIR$/venv/algo/day12-Queue/1_Contact">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="361">
+          <caret line="19" column="877" selection-start-line="19" selection-start-column="877" selection-end-line="19" selection-end-column="877" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day06-String/2회문.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day06-String/2회문.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="76" column="40" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day06-String/5민석이의과제.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="56" column="37" lean-forward="true" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day06-String/1문자열비교.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day07-stack1/Ladder1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="831">
-          <caret line="1009" column="199" selection-start-line="1009" selection-start-column="199" selection-end-line="1009" selection-end-column="199" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TIL/Algorithm/알고리즘/4.stack/연습문제.py" />
-    <entry file="file://$PROJECT_DIR$/venv/algo/day07-stack1/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TIL/Algorithm/알고리즘/4.stack/memoization.py" />
-    <entry file="file://$PROJECT_DIR$/venv/algo/day04-Array2/특별한정렬.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day04-Array2/금속막대.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day04-Array2/부분집합의합.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="47" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day04-Array2/색칠하기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack1/종이붙이기">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack1/괄호검사">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day07-stack1/연습문제.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_breakpoints.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="108" selection-start-line="108" selection-end-line="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../AppData/Local/Programs/Python/Python36/Lib/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="308" selection-start-line="308" selection-end-line="308" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack1/반복문자지우기2.py" />
-    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack1/반복문자지우기">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack1/그래프경로2.py" />
-    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack1/그래프경로">
+    <entry file="file://$PROJECT_DIR$/venv/algo/day12-Queue/3_미로의거리2.py" />
+    <entry file="file://$PROJECT_DIR$/venv/algo/day10-stack2/2_미로.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day11-Queue/연습문제3-BFS-2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day12-Queue/5_노드의길이2.py" />
+    <entry file="file://$PROJECT_DIR$/venv/algo/day12-Queue/1_Contact.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day12-Queue/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day12-Queue/4_피자굽기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day12-Queue/5_노드의길이">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day12-Queue/4_피자굽기">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day12-Queue/3_미로의거리">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day12-Queue/2_회전.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day12-Queue/3_미로의거리.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day11-Queue/행렬찾기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="47" column="14" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day12-Queue/5_노드의길이.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day11-Queue/연습문제3-BFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="51" column="35" selection-start-line="51" selection-start-column="35" selection-end-line="51" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day13-List/숫자배열회전2.py" />
+    <entry file="file://$PROJECT_DIR$/venv/algo/day13-List/LinkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1330">
+          <caret line="70" column="16" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/TIL/Algorithm/알고리즘/7. List/ch01/숫자배열회전.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day13-List/숫자배열회전">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="54" column="9" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day14-LinkedList/1_숫자추가2.py" />
+    <entry file="file://$PROJECT_DIR$/venv/algo/day14-LinkedList/2_수열합치기">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day14-LinkedList/1_숫자추가">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day13-List/우선순위큐.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day13-List/병합정렬.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day13-List/LinkedList2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day13-List/LinkedList3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day13-List/숫자배열회전.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="110" column="24" selection-start-line="110" selection-start-column="24" selection-end-line="110" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day14-LinkedList/1_숫자추가.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/algo/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day07-stack1/basic.py">
+    <entry file="file://$PROJECT_DIR$/venv/algo/day15-Tree/중위순회">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="18" lean-forward="true" selection-end-line="12" selection-end-column="12" />
+        <state relative-caret-position="76">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../TIL/Algorithm/알고리즘/4.stack/ch 1/basic.py" />
-    <entry file="file://$PROJECT_DIR$/venv/algo/day07-stack1/Ladder1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="52" column="39" lean-forward="true" selection-end-line="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TIL/Algorithm/알고리즘/4.stack/ch 1/Ladder1.py" />
-    <entry file="file://$PROJECT_DIR$/../TIL/Algorithm/알고리즘/4.stack/ch 1/memoization.py" />
-    <entry file="file://$PROJECT_DIR$/venv/algo/day07-stack1/괄호검사.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../TIL/Algorithm/알고리즘/4.stack/ch 1/괄호검사.py" />
-    <entry file="file://$PROJECT_DIR$/venv/algo/day07-stack1/연습문제.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack1/반복문자지우기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack1/작업순서2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1064">
-          <caret line="56" column="20" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack1/종이붙이기.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack1/작업순서">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack1/작업순서.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1330">
-          <caret line="70" column="12" lean-forward="true" selection-start-line="70" selection-start-column="12" selection-end-line="70" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack1/그래프경로.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="23" lean-forward="true" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day07-stack1/memoization.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack2/3-2 연습문제2.png" />
-    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack2/연습문제2.py" />
-    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack2/Magnetic.py" />
-    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack2/Magnetic2.py" />
-    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack2/Magnetic" />
-    <entry file="file://$PROJECT_DIR$/venv/algo/day08-stack1/괄호검사.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day09-stack2/Magnetic">
+    <entry file="file://$PROJECT_DIR$/venv/algo/day15-Tree/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day09-stack2/Magnetic.py">
+    <entry file="file://$PROJECT_DIR$/venv/algo/day14-LinkedList/2_수열합치기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1976">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day14-LinkedList/3_암호.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/algo/day09-stack2/Magnetic2.py">
+    <entry file="file://$PROJECT_DIR$/venv/algo/day14-LinkedList/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day15-Tree/연습문제.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        <state relative-caret-position="171">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day15-Tree/중위순회.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="49" column="15" selection-start-line="49" selection-start-column="15" selection-end-line="49" selection-end-column="15" />
+          <folding>
+            <marker date="1551682754891" expanded="true" signature="66:208" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day10-stack2/5_계산기3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="61" column="3" selection-start-line="61" selection-start-column="3" selection-end-line="61" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day16-Tree/4_이진힙.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day16-Tree/5_노드의합.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day16-Tree/4_이진힙">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day16-Tree/5_노드의합">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day16-Tree/1_사칙연산">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day16-Tree/2_subtree">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day16-Tree/2_subtree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day16-Tree/3_이진탐색">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day16-Tree/3_이진탐색.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/algo/day16-Tree/1_사칙연산.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
         </state>
       </provider>
     </entry>
